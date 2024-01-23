@@ -1,4 +1,4 @@
-MNIST Handwritten Digits Recognition Project
+# MNIST Handwritten Digits Recognition Project
 Overview
 This repository contains a project for handwritten digits recognition using the MNIST dataset. The project is implemented using TensorFlow and Keras for neural network modeling, and OpenCV for image processing.
 
